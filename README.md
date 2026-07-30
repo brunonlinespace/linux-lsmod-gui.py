@@ -1,5 +1,5 @@
 # linux-lsmod-gui.py (archive)
-Archived versions of the linux-lsmod-gui.py 
+Archived versions of the linux-lsmod-gui.py (https://github.com/brunonlinespace/linux-lsmod-gui.py)
 
 <strong>Active version: Check "Main" branch. Change log:</strong>
 - Version 10 (tested, OK) - Added GPL license. Generated on Google Gemini.
