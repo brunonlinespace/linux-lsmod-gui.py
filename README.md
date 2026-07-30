@@ -1,4 +1,4 @@
-# lsmod-gui
+# linux-lsmod-gui.py
 A python equivalent of lsmod and modinfo commands on Linux, but in GUI format and organised in categories.
 
 Hello, world!
@@ -25,14 +25,9 @@ I tested all versions, they all need python3. All versions were tested on Fedora
 4. Alternatively, you can grant "executable" permissions to the file and launch it via your file manager.
 5. Have fun!
 
+<strong>Current version: Version 11.</strong>
+- Manually modified the headers to align with my other projects.
+- Rest of the change log in the "Archive" branch.
+
 <hr>
 <p>I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P</p>
-
-<strong>Current version: Version 10. Change log:</strong>
-- Version 10 (tested, OK) - Added GPL license. Generated on Google Gemini.
-- Version 9 (tested, OK) - Added persistence to light/dark theme preference. Generated on Google Gemini.
-- Version 8 (tested, OK) - Changed the sorting label from "functional themes" to "categories" to improve clarity. Generated on Google Gemini.
-- Version 7 (tested, OK) - Asked Gemini to have the modules "sorted" in categories. Generated on Google Gemini.
-- Version 6 (tested, OK) - Made the active module counter be more explicitly stated at the top. Generated on Google Gemini.
-- Version 5 (tested, OK) - Added some colour flair. Generated on Google Gemini.
-- Version 4 (tested, OK) - Original GUI version. Generated on Google Gemini.
