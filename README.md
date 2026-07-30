@@ -18,7 +18,7 @@ As I have no coding experience, I asked Gemini to code this for me so it came up
 <b>OK, now tell me about the files?</b>
 I tested all versions, they all need python3. All versions were tested on Fedora 44 KDE. I did not test this on any non-systemd systems. I did not test this on any Arch/Debian-derivative either. But because they are written in python, I believe they should work cross-platform.
 
-<strong>Latest version is VERSION 10</strong>:
+<strong>Current version: VERSION 10</strong>:
 - Version 4 (tested, OK) - Original GUI version. Generated on Google Gemini.
 - Version 5 (tested, OK) - Added some colour flair. Generated on Google Gemini.
 - Version 6 (tested, OK) - Made the active module counter be more explicitly stated at the top. Generated on Google Gemini.
