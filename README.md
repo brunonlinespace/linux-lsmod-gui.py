@@ -1,7 +1,7 @@
 # linux-lsmod-gui.py (archive)
-Archived versions of the linux-lsmod.gui.py 
+Archived versions of the linux-lsmod-gui.py 
 
-<strong>Active version: check "Main" branch. Change log:</strong>
+<strong>Active version: Check "Main" branch. Change log:</strong>
 - Version 10 (tested, OK) - Added GPL license. Generated on Google Gemini.
 - Version 9 (tested, OK) - Added persistence to light/dark theme preference. Generated on Google Gemini.
 - Version 8 (tested, OK) - Changed the sorting label from "functional themes" to "categories" to improve clarity. Generated on Google Gemini.
