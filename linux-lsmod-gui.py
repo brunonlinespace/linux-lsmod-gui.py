@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 #
 # Linux Kernel Module Inspector (GUI) in python
-# linux-lsmod-gui.py
 # Copyright (C) 2026 brunonlinespace
 #
 # This program is free software: you can redistribute it and/or modify
@@ -18,6 +17,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
+# linux-lsmod-gui.py
 # Version: 11
 
 import json
