@@ -1,5 +1,5 @@
 # lsmod-gui
-A python equivalent of the lsmod command on Linux, but in GUI format and categorised.
+A python equivalent of lsmod and modinfo commands on Linux, but in GUI format and organised in categories.
 
 Hello, world!
 
