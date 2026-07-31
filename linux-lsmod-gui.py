@@ -15,7 +15,7 @@
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program. If not, see <https://www.gnu.org/licenses/>..
+# along with this program. If not, see <https://www.gnu.org/licenses/>.
 #
 # linux-lsmod-gui.py
 # Version: 11
@@ -33,7 +33,7 @@ class KernelModuleGUI:
 
   def __init__(self, root):
     self.root = root
-    self.root.title("Linux Kernel Module Inspector (Categorized)")
+    self.root.title("Linux Kernel Module Inspector (v11)")
     self.root.geometry("1100x700")
     self.root.minsize(800, 500)
 
