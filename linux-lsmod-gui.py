@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#
+# ==============================================================================
 # Linux Kernel Module Inspector (GUI) in python
-# Copyright (C) 2026 brunonlinespace
+# Copyright (C) 2026 AI Collaborator / brunonlinespace
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -19,6 +19,7 @@
 #
 # linux-lsmod-gui.py
 # Version: 11
+# ==============================================================================
 
 import json
 import os
